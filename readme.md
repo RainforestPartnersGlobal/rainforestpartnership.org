@@ -11,13 +11,13 @@
 -    instagram feed
 -    nov 15 deadline
 -    our model
-        landing page with model
-        mission (image text)
-        annual reports (sq.images to pdf)
-        team (bios, image text)
-        press (articles)
-        sponsors (v2 list)
-        partners (v1 project type)
+       - landing page with model
+       - mission (image text)
+       - annual reports (sq.images to pdf)
+       - team (bios, image text)
+       - press (articles)
+       - sponsors (v2 list)
+       - partners (v1 project type)
 -    the creative (innovation)
         boxes landing page
         creative council

@@ -1,0 +1,123 @@
+@media screen and (max-width: 1290px) {
+.container{max-width:98%;margin:0 auto;}
+.header-left {float: left;width: 55%;}
+.header-right {float: right;width: 40%;}
+.support {padding: 80px 0;}
+.support ul li {margin: 0 70px 0 0;}
+.project ul li .text-content {min-height: 55px;width: 140px;}
+/* innerpage */
+.sidebar{width:32%;}
+.main_content{width:68%;}
+.key_facts{width:95%;}
+.map_bg img{width:100%;}
+.main_para{margin-top:15px;}
+.objectives h3{font-size:75px;}
+.common_width{width:100%;padding:25px 20px 10px;}
+.support_link{padding:25px 0;}
+.support_link a{font-size:28px;line-height:39px;background-size:2%;}
+.support_link a img{width:1.8%;}
+.key_facts li h4{font-size:32px;}
+}
+@media only screen and (max-width: 1025px) {
+.header-left .nav ul li a {font-size: 20px;line-height: 48px;    padding-bottom: 16px;}
+.header-right .links ul li a {font-size: 20px;line-height: 48px;}
+.support ul li {margin: 0 27px 0 0;}
+.project ul li {margin: 0 13px 0 0;}
+.involved ul li a {font-size: 35px;line-height: 39px;}
+.involved ul li {margin: 0 20px 0 0;}
+.involved .form {margin: 56px auto 0; width: 90%;}
+.involved .form label { width: 248px;}
+.involved .form #newsletter { width: 400px;}
+.wrapper-container{width:98%;margin:0 auto;}
+.wrapper-container img{max-width:100%;height:auto;}
+.contact-us ul li {margin: 0 20px 15px 0;}
+.contact-us p{margin:0 0 0 25px;}
+}
+@media only screen and (max-width: 992px) {
+.header-left {float: left;width: 52%;}
+.header-right {float: right;width: 42%;}
+.header-left .nav ul li {margin: 0 10px 0 0;}
+.header-left .navigation { margin-left: 5px;}
+/* innerpage */
+.key_facts h3{font-size:60px;line-height:63px;margin:16px 0;}
+.key_facts li{margin-bottom:10px;}
+.key_facts li h4.loc{background-size:8%;}
+.key_facts li h4{font-size:25px;padding-left:32px;background-size:10%;margin-bottom:4px;background-position:left;}
+.key_facts li p{font-size:22px;line-height:28px;}
+.main_content p{font-size:24px;line-height:28px;}
+.main_content h3{font-size:45px;line-height:48px;}
+.main_para{margin-top:4px;}
+.objectives li{font-size:24px;line-height:28px;margin-bottom:0;}
+.help_sec ul li{font-size:24px;line-height:28px;margin-bottom:0;}
+.common_width{padding-bottom:18px;}
+.support_comm .vertical_align h4{font-size:42px;line-height:44px;}
+#project_page .contact-us h3{font-size:60px;line-height:62px;}
+}
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+.header-left {float: left;width: 56%;}
+.header-right {float: right;width: 43%;}
+.support ul li {margin: 0 30px 0 0;}
+.support ul li .content span {font-size: 32px;line-height: 40px;}
+.support ul li .content h4 {font-size: 24px; line-height: 28px;}
+.support ul li .content p {font-size: 30px;line-height: 29px;}
+.project ul li .content h5 {font-size: 20px;line-height: 26px;}
+.involved ul li a {font-size: 25px;line-height: 28px;}
+.involved .form label {width: 220px;font-size: 23px;line-height: 26px;}
+.involved .form #newsletter {width: 323px;margin: 9px 0;}
+.involved .form #sign-up {font-size: 30px;line-height: 35px;margin: 9px 0;padding: 4px 15px;}
+.project ul li .text-content {min-height: 55px;width: 130px;}
+.project ul li .content img{max-width:100%;height:auto;}
+.project ul li {float: left;margin: 0 7%;width: 18%;}
+.contact-us p{text-align:center;margin:0;}
+.banner-img {max-width: 100%;width: 35%;height:auto;}
+}
+@media screen and (max-width: 767px) {
+.container { margin: 0 auto;width: 95%;}
+.header-left {float: left;width: 100%;}
+.header-right {float:left;width: 100%;}
+.banner-img {max-width: 100%;width: 35%;height:auto;}
+.header-right .links{float:none;}
+.header-right .links ul{text-align:center;}
+.header-right .links ul li{float:none;display:inline-block;padding:0 11px 0 0;}
+.header-right .links ul li a{font-size: 19px;line-height: 30px;}
+.header-left .logo {float: left;text-align: center;width: 100%;}
+.support ul li{width:100%;margin:0 0 30px 0;}
+.support { padding: 45px 0;}
+.project ul li {display: inline-block;float: none; margin: 0; width: 100%;}
+.project ul li .text-content{width:100%;margin-bottom:10px;display:inline-block;text-align:center;}
+.involved ul li { margin: 0 0 30px;width: 100%;}
+.project h3 {font-size: 39px;line-height: 36px;margin-bottom: 11px;}
+.involved h3, .contact-us h3{font-size: 39px;line-height: 36px;margin-bottom: 11px;}
+.involved .form { margin: 15px auto 0;width: 88%;}
+.involved .form label,.involved .form #newsletter {width: 100%;font-size: 27px;line-height: 33px;}
+.involved .form #sign-up,.involved .form #newsletter{margin:2px 0;}
+.innovation h3,.our-model h3 { font-size: 55px;line-height: 75px;}
+.blog h3,.our-model h3 { font-size: 55px;line-height: 75px;}
+.contact-us ul li{width:100%;margin:0 0 15px 0;}
+.contact-us .social li{width:40%;margin:0;}
+.contact-us p{text-align:center;}
+.involved ul li a {font-size: 22px;line-height: 28px;}
+/* innerpage */
+.sidebar{width:100%;}
+.main_content{width:100%;}
+.key_facts h3{font-size:45px;line-height:43px;}
+.key_facts li h4{font-size:22px;line-height:43px;background-size:28px;}
+.key_facts li h4.loc{background-size:18px;}
+.key_facts li p{font-size:20px;line-height:24px;}
+.main_content p{font-size:20px;line-height:24px;}
+.main_content h3{font-size:36px;line-height:38px;margin-bottom:8px;}
+.objectives li{font-size:20px;line-height:24px;}
+.help_sec ul li{font-size:20px;line-height:22px;margin-bottom:8px;}
+.support_link a{font-size:16px;line-height:24px;background:transparent;padding-right:0;}
+.support_link a span{padding-left:8px;}
+.support_link a img{width:2%;}
+.support_comm li{width:100%;}
+.quote p{font-size:22px;}
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+.support ul li{width:45%;margin:0;}
+.project ul li {float: left;margin: 0 14%;width: 21%;min-height:215px;}
+.involved ul li { margin: 0 0 10px;width: 49%;}
+.involved .form label, .involved .form #newsletter {font-size: 23px;line-height: 32px; width: 100%;}
+
+}

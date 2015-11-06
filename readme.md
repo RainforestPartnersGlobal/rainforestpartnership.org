@@ -7,6 +7,8 @@
 
 We would like to have as many static resources on the ground as possible so that we can be ready for COP 21
 
+# Website Rebrand
+
 -    RP Model
        - landing page with model
        - mission (image text)
@@ -42,9 +44,10 @@ We would like to have as many static resources on the ground as possible so that
 -    Social media links
 -    Email newsletter emma
 -    Instagram feed
--    footer
+-    Footer
 
 # Feature Requests
+
 - we need a page to list who our partners are
 - an e-commerce page with all products sold that benefit RP (flash tattoos etc)
 - More info about how we work and bottom-up model

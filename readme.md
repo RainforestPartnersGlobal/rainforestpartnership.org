@@ -4,6 +4,9 @@
 #### Who are we you might ask?
 # We are the Rainforest Partnership and we want to partner with you. We need your genius skills. If you are passionate about raising awareness around the preservation of rainforests we invite you to help us.
 
+Priority December 1st
+
+We would like to have as many static resources on the ground as possible so that we can be ready for COP 21
 
 -    RP Model
        - landing page with model
@@ -42,7 +45,7 @@
 -    Instagram feed
 -    footer
 
-### The new website with the Help of Volusion
+# Feature Requests
 - we need a page to list who our partners are
 - an e-commerce page with all products sold that benefit RP (flash tattoos etc)
 - More info about how we work and bottom-up model

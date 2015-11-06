@@ -1,4 +1,10 @@
-#RP Website Rebrand
+### hey!
+#Austin Give Campers
+## We need you!
+#### Who are we you might ask?
+# We are the Rainforest Partnership and we want to partner with you to be an influencer in your circles using your genius skills to create new ways that we can connect our intention with the everyday choices we are making and the future we are creating for future generations.
+
+
 
 -    RP Model
        - landing page with model

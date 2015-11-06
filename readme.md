@@ -1,10 +1,9 @@
-### hey!
-#Austin Give Campers
+### Hey Austin Give Campers
 ## We need you!
-#### Who are we you might ask?
-# We are the Rainforest Partnership and we want to partner with you. We need your genius skills. If you are passionate about raising awareness around the preservation of rainforests we invite you to help us.
+# Who are we?
+### We are the Rainforest Partnership and we want to partner with you. We need your genius skills. If you are passionate about raising awareness around the preservation of rainforests we invite you to help us.
 
-Priority December 1st
+#COP21 December 01 Paris
 
 We would like to have as many static resources on the ground as possible so that we can be ready for COP 21
 

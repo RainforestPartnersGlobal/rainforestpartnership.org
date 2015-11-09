@@ -71,3 +71,8 @@ https://app.mobilecause.com/public/campaigns_keywords/24049/donations/new
 - Trending ticker on landing page
 - Google translate - https://wordpress.org/plugins/google-language-translator (English French Spanish Portuguese Mandarin)
 - Live data
+
+#Go-Live
+- Bluehost
+- Develop on standalone
+- Migrate on Wednesday

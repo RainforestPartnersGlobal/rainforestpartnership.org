@@ -40,11 +40,6 @@ We would like to have as many static resources on the ground as possible so that
            - people
            - trees
            - acres
--    Newsletter (conf page)
--    Social media links
--    Email newsletter emma
--    Instagram feed
--    Footer
 
 # Changes
 

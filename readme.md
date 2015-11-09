@@ -63,3 +63,23 @@ We would like to have as many static resources on the ground as possible so that
 www.RainforestPartnership.org
 
 Instagram      Twitter      Facebook
+
+
+#Start Head
+- Landing page (add footer)
+- Project Pages (cleanup)
+- Menu Pages (Wireframes need coding)
+- Newsletter (Emma / confirmation page)
+- Instagram feed
+- Sticky Navigation
+- Donations launch in Modal
+- Ticker
+- Increase timer for hover on nav
+
+Donations by:
+https://app.mobilecause.com/public/campaigns_keywords/24049/donations/new
+
+
+#Wish list
+- Trending page (aggragate fb, twitter, ig, periscope?, pinterest)
+- Google translate - https://wordpress.org/plugins/google-language-translator (English French Spanish Portuguese Mandarin)

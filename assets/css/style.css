@@ -1,3 +1,18 @@
+@font-face {
+  font-family: headerFont;
+  src: url(../fonts/Knockout-29JuniorLtweight.woff);
+}
+
+@font-face {
+  font-family: paraFont;
+  src: url(../fonts/Neutraface2Text-Book.woff);
+}
+
+@font-face {
+  font-family: trendSans;
+  src: url(../fonts/trendsans-one-webfont.woff)
+}
+
 * {
   box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -92,7 +107,7 @@ a img {
   line-height: 48px;
   color: #77787b;
   text-transform: uppercase;
-  font-family: 'Knockout-29JuniorLtweight';
+  font-family: 'headerFont';
   padding-bottom: 11px;
 }
 
@@ -151,7 +166,7 @@ a img {
   line-height: 48px;
   color: #5f9e45;
   text-transform: uppercase;
-  font-family: 'Knockout-29JuniorLtweight';
+  font-family: 'headerFont';
 }
 
 .header-right .links ul li a:hover {
@@ -353,7 +368,7 @@ a img {
   font-size: 25px;
   line-height: 32px;
   color: #7f8083;
-  font-family: 'Neutraface2Text-Book';
+  font-family: 'trendSans';
   text-transform: uppercase;
 }
 
@@ -619,9 +634,9 @@ a img {
 }
 
 .key_facts {
-  width: 70%;
+  width: 80%;
   float: right;
-  padding: 0 4% 10px 0;
+  padding: 0 72px 15px 0;
 }
 
 .key_facts h3 {
@@ -676,7 +691,7 @@ a img {
 }
 
 .key_facts li p {
-  font: 400 28px/33px Neutraface2Text-Demi;
+  font: 400 24px/28px Neutraface2Text-Book;
   color: #4d4d4f;
 }
 
@@ -694,14 +709,14 @@ a img {
 }
 
 .main_content p {
-  font: 400 28px/34px Neutraface2Text-Demi;
+  font: 400 28px/34px paraFont;
   color: #4d4d4f;
 }
 
 .main_para {
   width: 81%;
   float: left;
-  padding: 0 0 20px 34px;
+  padding: 15px 0 20px 34px;
   margin: 31px 0 0;
 }
 
@@ -757,7 +772,7 @@ a img {
   width: 100%;
   float: left;
   margin-bottom: 8px;
-  font: 400 28px/32px Neutraface2Text-Demi;
+  font: 400 28px/32px paraFont;
   color: #4d4d4f;
 }
 
@@ -785,7 +800,7 @@ a img {
   list-style: none;
   width: 100%;
   float: left;
-  font: 400 28px/35px Neutraface2Text-Demi;
+  font: 400 28px/35px paraFont;
   color: #4d4d4f;
   margin-bottom: 4px;
 }

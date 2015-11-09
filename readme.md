@@ -40,6 +40,12 @@ We would like to have as many static resources on the ground as possible so that
            - people
            - trees
            - acres
+- Landing Pages
+  - About Us
+  - Projects
+  - INITIATIVES
+  - Get Involved
+    - Steps
 
 # Changes
 

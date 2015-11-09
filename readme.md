@@ -7,7 +7,7 @@
 
 We would like to have as many static resources on the ground as possible so that we can be ready for COP 21
 
-# Website Rebrand
+# Menu Overview
 
 -    RP Model
        - landing page with model
@@ -46,26 +46,12 @@ We would like to have as many static resources on the ground as possible so that
 -    Instagram feed
 -    Footer
 
-# Feature Requests
+# Changes
 
-- we need a page to list who our partners are
-- an e-commerce page with all products sold that benefit RP (flash tattoos etc)
-- More info about how we work and bottom-up model
-- About us: Headquartered in Austin, International reach, UN recognized
+- Footer Headquartered in Austin, International reach, UN recognized
 - Explain how we are international, how RP began and how we work now
-- Social icons at top of page
-- Add "About Us" in multiple languages
-- Scrolling banner with up to date, what is going on live and what is being promoted
-- Action steps
-- Quantitative data about how action steps affect enviro/rainforest
-- Different ways to give (eg Amazon Smile where we are registered)
 
-www.RainforestPartnership.org
-
-Instagram      Twitter      Facebook
-
-
-#Start Head
+#Start Here
 - Landing page (add footer)
 - Project Pages (cleanup)
 - Menu Pages (Wireframes need coding)
@@ -79,7 +65,8 @@ Instagram      Twitter      Facebook
 Donations by:
 https://app.mobilecause.com/public/campaigns_keywords/24049/donations/new
 
-
 #Wish list
 - Trending page (aggragate fb, twitter, ig, periscope?, pinterest)
+- Trending ticker on landing page
 - Google translate - https://wordpress.org/plugins/google-language-translator (English French Spanish Portuguese Mandarin)
+- Live data
